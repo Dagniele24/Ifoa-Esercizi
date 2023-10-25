@@ -1,0 +1,58 @@
+/* Logo */
+.logo{
+    text-align: center;
+    height: auto;
+}
+
+/* Linea Sotto Il Logo */
+hr{
+    border-color: #eff869;
+}
+/*secondo hr*/
+.hr{
+    border-color: rgb(206, 255, 255);   
+}
+
+h1{
+    text-align: center;
+}
+
+main, aside{
+    width: 50%;
+    margin: 0 auto;
+}
+/* Testo dopo titolo */
+.testo{
+    text-align: center;
+    line-height: 1;
+    margin: 0 auto;
+}
+
+#conteiner1{
+    text-align: center;
+    font-size: 70%;
+    width:100%;
+    height: 40px;
+    background-color:#fff2d1;
+}
+
+.img img{
+    width: 100%;
+    border-radius: 20px 20px 20px 20px;
+}
+
+/* Caption */
+.caption{
+    text-align: center;
+    color: gray;
+}
+#conteiner2{
+    line-height: 0;
+    color: orange;
+}
+
+/*liste
+.lista{
+    padding-left: 40%;
+    padding-right: 40%;
+}*/
